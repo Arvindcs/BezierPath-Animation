@@ -26,7 +26,7 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 <img src="https://i.imgur.com/8Y5hxAC.gif" width="475" height="400"/>
 
 #### Watch Drawing Animation
-<img src="https://i.imgur.com/8Y5hxAC.gif" width="475" height="400"/>
+<img src="https://i.imgur.com/Q9H0Fyp.gif" width="475" height="400"/>
 
 
 ## Donation 
