@@ -9,8 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    @IBOutlet weak var smartWatch: SmartWatchView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        //TODO:- change watch size as per your requirement
+        smartWatch.transform = CGAffineTransform(scaleX: 1, y: 1)
     }
 }
